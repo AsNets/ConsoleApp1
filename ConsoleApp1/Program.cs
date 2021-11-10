@@ -11,6 +11,7 @@ namespace ConsoleApp1
       public  static void Main(string[] args)
         {
             Console.WriteLine("Merhaba ASNETS");
+            Console.WriteLine("Bu bir deneme uygulamasıdır");
             Console.ReadLine();
             
         }
