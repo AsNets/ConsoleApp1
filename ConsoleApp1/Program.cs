@@ -14,7 +14,7 @@ namespace ConsoleApp1
         {
               string EkranaBas()
             {
-                return "Fonksiyon çalıitı";
+                return "Fonksiyon çalıştı";
             }
 
             Console.WriteLine("Merhaba ASNETS");
